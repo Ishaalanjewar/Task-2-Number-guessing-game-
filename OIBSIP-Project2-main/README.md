@@ -3,9 +3,8 @@
 
 __Oasis Infobyte Internship - Task 2 :-__
 
-Completed Task 2 of name Number Guessing Game in Java Peogramming language using Eclipse IDE.
+Completed Task 2 of name Number Guessing Game in Java Peogramming language using vs code .
 
-Steps Required :
 
 1. In this implementation, we first create a Scanner object to read input from the user and a Random object to generate a random number between 1 and 100, inclusive.
 
